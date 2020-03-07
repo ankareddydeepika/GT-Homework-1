@@ -97,7 +97,7 @@ p {
     max-width: 150px;
 }
 
-.Enterprise-Mobility {
+.section-design{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -106,65 +106,11 @@ p {
     color: #ffffff;
 }
 
-.Engineering-Services {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:  #576064;
-    color: #ffffff;
-}
-
-.Management-Consulting {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:  #576064;
-    color: #ffffff;
-}
-
-.Application-Management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:  #576064;
-    color: #ffffff;
-}
-
-.Enterprise-Mobility img {
+.section-design img {
     max-height: 200px;
 }
 
-.Engineering-Services img {
-    max-height: 200px;
-}
-
-.Management-Consulting img {
-    max-height: 200px;
-}
-
-.Application-Management img {
-    max-height: 200px;
-}
-
-.Enterprise-Mobility h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.Engineering-Services h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.Management-Consulting h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.Application-Management h2 {
+.section-design h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
